@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<parent>
+		<groupId>com.orangesignal.android</groupId>
+		<artifactId>orangesignal-android-camera</artifactId>
+		<version>1.0.0</version>
+	</parent>
+
+	<artifactId>orangesignal-android-camera-simple</artifactId>
+	<version>1.0.0</version>
+	<packaging>apklib</packaging>
+	<name>OrangeSignal Android Camera Simple Addon</name>
+
+	<dependencies>
+		<dependency>
+			<groupId>android</groupId>
+			<artifactId>android</artifactId>
+			<scope>provided</scope>
+		</dependency>
+		<dependency>
+			<groupId>com.orangesignal.android</groupId>
+			<artifactId>orangesignal-android-camera-core</artifactId>
+			<version>1.0.0</version>
+			<type>apklib</type>
+		</dependency>
+	</dependencies>
+
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>com.jayway.maven.plugins.android.generation2</groupId>
+				<artifactId>android-maven-plugin</artifactId>
+				<extensions>true</extensions>
+			</plugin>
+		</plugins>
+	</build>
+
+</project>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+	Copyright (c) 2012 OrangeSIgnal.com All Rights Reserved.
+ -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+	package="com.orangesignal.android.camera"
+	android:versionName="1.0">
+
+	<uses-sdk android:minSdkVersion="1" android:targetSdkVersion="8" />
+
+
+
+	<uses-permission android:name="android.permission.CAMERA" />
+<!-- 
+	<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+	<uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+	<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+ -->
+
+
+
+	<!-- Google プレイ (旧 Android マーケット) からダウンロード可能な端末を以下の機能を搭載している端末に制限します。 -->
+<!-- 
+	<uses-feature android:name="jp.co.sharp.android.hardware.cameraex" android:required="true" />
+
+	<uses-feature android:name="android.hardware.camera" />
+	<uses-feature android:name="android.hardware.camera.autofocus" />
+	<uses-feature android:name="android.hardware.camera.flash" />
+	<uses-feature android:name="android.hardware.camera.front" />
+
+	<uses-feature android:name="android.hardware.location" />
+	<uses-feature android:name="android.hardware.location.network" />
+	<uses-feature android:name="android.hardware.location.gps" />
+
+	<uses-feature android:glEsVersion="0x00020000" />
+ -->
+
+<!-- 
+	<application >
+		<uses-library android:name="jp.co.sharp.android.hardware" />
+	</application>
+ -->
+
+</manifest>
