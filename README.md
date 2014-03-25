@@ -10,4 +10,4 @@ Android camera library project
 # License
 
 * [The GNU Lesser General Public License, Version 3.0](http://www.gnu.org/licenses/lgpl-3.0.txt)   
-  Copyright © 2013–2014 Koji Sugisawa. All rights reserved.
+  Copyright © 2012–2014 OrangeSignal.com. All rights reserved.
