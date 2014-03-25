@@ -1,6 +1,8 @@
 # OrangeSignal Android Camera Library
 
-Android camera library project
+Android Camera Library + GPUImage GLSL filters
+
+* Android 1.5+ (1.x / 2.x / 3.x / 4.x)
 
 # Links
 
