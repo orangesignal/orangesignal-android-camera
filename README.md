@@ -2,7 +2,14 @@
 
 Android Camera Library + GPUImage GLSL filters
 
+## Prerequisites (supported android versions)
+
 * Android 1.5+ (1.x / 2.x / 3.x / 4.x)
+
+## Modules
+
+* Core - Android 1.x+
+* GLES20 - Android 2.2+ (Required OpenGL ES 2.0 support)
 
 # Links
 
