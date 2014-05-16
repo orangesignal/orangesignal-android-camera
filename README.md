@@ -16,11 +16,6 @@ Android Camera Library + GPUImage GLSL filters
   Android 2.0+ & OpenGL ES 2.0+
 * simple - simple camera preview (very slow)
 
-## Links
-
-* [cameran](https://play.google.com/store/apps/details?id=jp.co.recruit.mtl.cameran.android)
-* [Nyalan camera](https://play.google.com/store/apps/details?id=jp.co.recruit.android.apps.nyalancamera)
-
 ## License
 
 * [The GNU Lesser General Public License, Version 3.0](http://www.gnu.org/licenses/lgpl-3.0.txt)   
