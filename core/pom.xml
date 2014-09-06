@@ -6,7 +6,7 @@
 	<parent>
 		<groupId>com.orangesignal.android</groupId>
 		<artifactId>orangesignal-android-camera</artifactId>
-		<version>1.0.1</version>
+		<version>1.0.4-SNAPSHOT</version>
 	</parent>
 
 	<artifactId>orangesignal-android-camera-core</artifactId>

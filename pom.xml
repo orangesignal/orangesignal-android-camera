@@ -21,7 +21,7 @@
 
 	<groupId>com.orangesignal.android</groupId>
 	<artifactId>orangesignal-android-camera</artifactId>
-	<version>1.0.1</version>
+	<version>1.0.4-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<modules>
@@ -88,8 +88,8 @@
 		<surefire.jvm.args>-Dfile.encoding=UTF-8</surefire.jvm.args>
 
 		<!-- Android バージョン -->
-		<android.platform.version>4.2.2_r2</android.platform.version>
-		<android.sdk.version>17</android.sdk.version>
+		<android.platform.version>4.4.2_r3</android.platform.version>
+		<android.sdk.version>19</android.sdk.version>
 
 		<sonar.dynamicAnalysis>reuseReports</sonar.dynamicAnalysis>
 		<sonar.core.codeCoveragePlugin>cobertura</sonar.core.codeCoveragePlugin>
@@ -139,8 +139,8 @@
 					<artifactId>maven-compiler-plugin</artifactId>
 					<version>3.1</version>
 					<configuration>
-						<source>1.6</source>
-						<target>1.6</target>
+						<source>1.7</source>
+						<target>1.7</target>
 					</configuration>
 				</plugin>
 				<plugin>
