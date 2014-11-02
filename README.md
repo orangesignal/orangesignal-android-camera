@@ -10,7 +10,7 @@ Android Camera Library + GPUImage GLSL filters
 
 * core - core camera library   
   Android 1.0+
-* glse20 - OpenGL ES 2.0 camera preview & GLSL filters addon (required gles20_native module)   
+* gles20 - OpenGL ES 2.0 camera preview & GLSL filters addon (required gles20_native module)
   Android 2.2+ & OpenGL ES 2.0+
 * gles20_native - glse20 JNI code   
   Android 2.0+ & OpenGL ES 2.0+
