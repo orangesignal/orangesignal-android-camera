@@ -11,7 +11,7 @@
 
 	<artifactId>orangesignal-android-camera-gles20</artifactId>
 	<packaging>apklib</packaging>
-	<name>OrangeSignal Android Camera OpenGL ES 2.0 Addon</name>
+	<name>OrangeSignal Android Camera OpenGL ES 2.0 Add-on</name>
 
 	<dependencies>
 		<dependency>
@@ -40,7 +40,7 @@
 	<build>
 		<plugins>
 			<plugin>
-				<groupId>com.jayway.maven.plugins.android.generation2</groupId>
+				<groupId>com.simpligility.maven.plugins</groupId>
 				<artifactId>android-maven-plugin</artifactId>
 			</plugin>
 			<plugin>
